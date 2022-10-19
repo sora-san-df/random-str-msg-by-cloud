@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-by-cloud",
+  "version": "1.0.0",
+  "description": "a random messages generator(this is made to learn how to publish a npm package kekw)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sora-san-df/random-str-msg-by-cloud.git"
+  },
+  "keywords": [],
+  "author": "Diego Fernando M <cloudinthesky@outlook.es>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sora-san-df/random-str-msg-by-cloud/issues"
+  },
+  "homepage": "https://github.com/sora-san-df/random-str-msg-by-cloud#readme",
+  "bin":{
+    "random-str-msg":"./bin/global.js"
+  },
+  "preferGlobal": true
+}
